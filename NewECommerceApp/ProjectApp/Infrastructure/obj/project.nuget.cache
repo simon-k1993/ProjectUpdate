@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgrogPkC6GXXqJdQhRWGfjJ2f8LmzydD6J52+KEnZTwLaKHPopu7eVSSHZcI7GH4hWzIs3V8Gj2RIPvXoZk6dQ==",
+  "dgSpecHash": "8CKRayp8FdFwkCKRgW3E7P0Ye5Ex65dTy1vxulTmit1Eula98Fx36mtpDUJrfnF4kpZexfAO92E9lixkMI3yEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon\\Desktop\\NewECommerceApp\\ProjectApp\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

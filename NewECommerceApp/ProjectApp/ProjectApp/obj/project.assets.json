@@ -3450,11 +3450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\NewECommerceApp\\ProjectApp\\ProjectApp\\ProjectApp.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\ProjectApp\\ProjectApp.csproj",
       "projectName": "ProjectApp",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\NewECommerceApp\\ProjectApp\\ProjectApp\\ProjectApp.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\ProjectApp\\ProjectApp.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\NewECommerceApp\\ProjectApp\\ProjectApp\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\ProjectApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3471,8 +3471,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Simon\\Desktop\\NewECommerceApp\\ProjectApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Simon\\Desktop\\NewECommerceApp\\ProjectApp\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
