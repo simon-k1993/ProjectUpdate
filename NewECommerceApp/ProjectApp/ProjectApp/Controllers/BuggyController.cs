@@ -1,4 +1,5 @@
 ﻿using Infrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProjectApp.Errors;
 
@@ -12,6 +13,16 @@ namespace ProjectApp.Controllers
         {
             _storeContext = storeContext;
         }
+
+        [HttpGet("testauth")]
+        [Authorize]
+        public ActionResult<string> GetSecretText()
+        {
+            return "secret stuff";
+        }
+
+
+
 
         [HttpGet("notfound")]
 
