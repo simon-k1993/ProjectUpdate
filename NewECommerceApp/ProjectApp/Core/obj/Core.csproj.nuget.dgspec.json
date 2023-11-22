@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\New folder (3)\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj": {
+    "C:\\Users\\Simon\\Desktop\\New folder (3)\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\New folder (3)\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\New folder (3)\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\ProjectUpdate\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\New folder (3)\\ProjectUpdate\\NewECommerceApp\\ProjectApp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
